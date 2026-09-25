@@ -10,5 +10,5 @@ SemiGDA is a generative framework for semi-supervised medical image segmentation
 The proposed framework consists of a **Dual-distribution Alignment Module (DAM)** for latent feature alignment and a **Consistency-Driven Skip Adapter (CDSA)** for semantic feature fusion, enabling robust segmentation with limited annotations.
 
 <p align="center">
-<img src="./figures/framework.png" width="95%">
+<img src="./assets/model.png" width="95%">
 </p>

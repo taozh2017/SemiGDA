@@ -29,3 +29,13 @@ model/
     ├── 768-v-ema-first-stage-VAE.ckpt
     └── v2-inference-v-first-stage-VAE.yaml
 ```
+
+## Dataset
+
+We conduct experiments on four medical image segmentation benchmarks, including colonoscopy datasets (**CVC-300, CVC-ClinicDB, and Kvasir**), the skin lesion dataset **ISIC-2018**, the histopathology dataset **BCSS**, and the breast ultrasound dataset **BUSI**. 
+
+The datasets can be downloaded from the following links:
+
+[colonoscopy datasets](your_cvc300_link) | [ISIC-2018](your_isic_link) | [BCSS](your_bcss_link) | [BUSI](your_busi_link)
+
+

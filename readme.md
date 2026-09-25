@@ -12,3 +12,20 @@ The proposed framework consists of a **Dual-distribution Alignment Module (DAM)*
 <p align="center">
 <img src="./assets/model.png" width="95%">
 </p>
+
+## Pretrained Models
+
+SemiGDA requires the pretrained Stable Diffusion VAE weights for latent representation extraction.
+
+The pretrained VAE weights can be downloaded from:
+
+[Download VAE Weights](your_download_link)
+
+After downloading, please place the files into the following directory:
+
+```
+model/
+└── SD-VAE-weights/
+    ├── 768-v-ema-first-stage-VAE.ckpt
+    └── v2-inference-v-first-stage-VAE.yaml
+```

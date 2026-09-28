@@ -19,7 +19,7 @@ SemiGDA requires the pretrained Stable Diffusion VAE weights for latent represen
 
 The pretrained VAE weights can be downloaded from:
 
-[Download VAE Weights](your_download_link)
+[Download VAE Weights](https://drive.google.com/file/d/1ogNwgUYsAYkto37M0Pf_07LpKLP5NyvK/view?usp=sharing)
 
 After downloading, please place the files into the following directory:
 
@@ -36,6 +36,6 @@ We conduct experiments on four medical image segmentation benchmarks, including 
 
 The datasets can be downloaded from the following links:
 
-[colonoscopy datasets](your_cvc300_link) | [ISIC-2018](your_isic_link) | [BCSS](your_bcss_link) | [BUSI](your_busi_link)
+[colonoscopy datasets](https://drive.google.com/drive/folders/1uxPGLAon7fTH2qbnohRYOZomApKs9wjS?usp=sharing) | [ISIC-2018](https://drive.google.com/file/d/1zaVyGIOfS4SCWAN2IGN5-zlwX8eihEAl/view?usp=drive_link) 
 
 
